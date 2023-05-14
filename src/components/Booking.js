@@ -33,7 +33,7 @@ const Booking = () => {
       <div className="movie-details mt-4">
         <h2>Movie Details:</h2>
         <p><strong>Name:</strong> {movieName}</p>
-        <p><strong>Site:</strong> {movieDetails.site}</p>
+        <p><strong>Site:</strong> <a href={movieDetails.site} target="_blank">{movieDetails.site}</a></p>
         <p><strong>Duration:</strong> {movieDetails.duration} minutes</p>
       </div>
       <form onSubmit={handleFormSubmit} className="mt-4">
