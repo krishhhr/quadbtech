@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Web capture_14-5-2023_93057_localhost](https://github.com/krishhhr/quadbtech/assets/74483086/401fb048-342a-461f-8054-3e4581dd9d55)
+<img width="960" alt="image" src="https://github.com/krishhhr/quadbtech/assets/74483086/74bb3350-eacf-4f2f-a84f-8dfbbd8b4740">
+<img width="960" alt="image" src="https://github.com/krishhhr/quadbtech/assets/74483086/c5059f15-8a42-4d8a-8190-13a7ac354c9b">
+<img width="415" alt="image" src="https://github.com/krishhhr/quadbtech/assets/74483086/90db7b4a-2a3a-4559-9e37-116bf6049c38">
+<img width="960" alt="image" src="https://github.com/krishhhr/quadbtech/assets/74483086/8e7938ef-068e-4a0b-be62-baa69980afed">
 
 ## Available Scripts
 
